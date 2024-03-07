@@ -1,0 +1,6 @@
+fine-tune-llm/.env
+fine-tune-llm/__MACOSX
+fine-tune-llm/dlai
+fine-tune-llm/__pycache__
+fine-tune-llm/.ipynb_checkpoints
+fine-tune-llm/lamini_docs_*
